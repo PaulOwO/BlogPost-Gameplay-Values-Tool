@@ -4,6 +4,10 @@
 
 This Tool was made in the last part of the first module GPR5100 of the second year in gammes programming at SAE Institute. The purpose of the tool is to help the third year with everything related to gameplay values in their city building game called Volyday made on Unreal. The tool was divided in 3 parts : Data base, Simulator and Editor. The third year student referent on the tool was Solange that helped and gived feedback all along the way.   
 
+## Data Base
+
+We had free choice of the format of the data base, after researching we choose the format
+
 You can use the [editor on GitHub](https://github.com/PaulOwO/BlogPost-Gameplay-Values-Tool/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
