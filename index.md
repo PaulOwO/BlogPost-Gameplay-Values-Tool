@@ -1,4 +1,8 @@
-# Blogpost On my First Tool !
+# Technical Blogpost On my First Tool !
+
+## Introduction
+
+This Tool was made in the last part of the first module of the second year in gammes programming at SAE Institute
 
 You can use the [editor on GitHub](https://github.com/PaulOwO/BlogPost-Gameplay-Values-Tool/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
