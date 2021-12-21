@@ -40,6 +40,11 @@ And here is a graph for a better understanding :
 
 ## Conclusion 
 
+Im really happy and hopfull that my tool will be useful for the third grader, i'm glad I retouched exel because it's a realy powerfull tool that could come in handy in the future.
+
 But could we do it better and faster ? 
 
 Yes in multiple way. First of all im certain there is a way to make the simulator easier to modify and even more time saving but i don't know well exel true power.
+
+We could also make the transfer of database to unreal way faster and automatic for more people to work on. 
+We could make a LAN server where everyone can change the exel and unreal could read it whitout having to reimport each time. 
