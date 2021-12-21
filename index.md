@@ -23,18 +23,19 @@ Here is what our data base looked like on google sheets
 A Comma-separated values format like it's name implies, separate the data in our sheets by comma.
 But by namming the column and line our file was messed up. To fix this problem we used Data tables on unreal to name every column and line and now you can easely reimport a new data tables scv file way faster thanks to unreal. 
 
-Here is a part of a simulator
-![image](https://user-images.githubusercontent.com/71375990/146980159-55603ca1-7bda-4010-8eda-7b6a65725c34.png)
-
-
 ## Simulator
 
 Now that the database is changeable we need to know when to change it.
 The simulator is and exel file that takes data from the data base to simulate a fake game only with numbers and show it to us via graphics.
 The simulator show the game designers useful graph that changes when they changes the data base. With that they can adjust difficulty and whole dessign of the game to their liking by tweeking numbers.
 
+Here is a part of a simulator : 
+![image](https://user-images.githubusercontent.com/71375990/146980159-55603ca1-7bda-4010-8eda-7b6a65725c34.png)
 
+We can see that each month we have the gain and loss of a building. In the left up corner the value we see come from the data base and is why the simulator is always up to date.
 
+And here is a graph for a better understanding : 
+![image](https://user-images.githubusercontent.com/71375990/146980750-b6c39111-257c-4572-ba6f-2f05654a475e.png)
 
 
 ## Conclusion 
