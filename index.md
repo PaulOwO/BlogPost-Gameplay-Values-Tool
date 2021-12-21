@@ -6,7 +6,22 @@ This Tool was made in the last part of the first module GPR5100 of the second ye
 
 ## Data Base
 
-We had free choice of the format of the data base, after researching we choose the format
+We had free choice of the format of the data base, after researching we choose to do it on an exel file (google sheets for multiple person to work on it at the same time)
+We choose this because it can export the data on .csv format that unreal can easely read to make a data table.
+
+### What's a .csv file ?
+
+Here is what our data base looked like on google sheets 
+
+![image](https://user-images.githubusercontent.com/71375990/146958964-a3778d8e-dede-4a72-8b84-52f52f966b41.png)
+
+and here is what it looks like in .csv format.
+
+![image](https://user-images.githubusercontent.com/71375990/146959207-6cc72a3e-770f-4ee4-be71-9f252fdf87b7.png)
+
+A Comma-separated values format like it's name implies, separate the data in our sheets by comma.
+
+
 
 You can use the [editor on GitHub](https://github.com/PaulOwO/BlogPost-Gameplay-Values-Tool/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
