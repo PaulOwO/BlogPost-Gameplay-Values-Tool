@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Tool was made in the last part of the first module GPR5100 of the second year in gammes programming at SAE Institute. The purpose of the tool is to help the third year with everything related to gameplay values in their city building game called Volyday made on Unreal. The tool was divided in 3 parts : Data base, Simulator and Editor. The third year student referent on the tool was Solange that helped and gived feedback all along the way.   
+This Tool was made in the last part of the first module GPR5100 of the second year in gammes programming at SAE Institute. The purpose of the tool is to help the third year with everything related to gameplay values in their city building game called Volyday made on Unreal. The tool was divided in 3 parts : Data base, Simulator and Editor. The third year student referent on the tool was Solange that helped and gived feedback all along the way. For more details here is [The manual](https://docs.google.com/document/d/1BPadEZaKvTgLMROArouL9oTvHROrz1t10AokWw_xuVY/edit#)  
 
 ## Data Base and Unreal Engine
 
@@ -27,7 +27,7 @@ But by namming the column and line our file was messed up. To fix this problem w
 
 Now that the database is changeable we need to know when to change it.
 The simulator is and exel file that takes data from the data base to simulate a fake game only with numbers and show it to us via graphics.
-The simulator show the game designers useful graph that changes when they changes the data base 
+The simulator show the game designers useful graph that changes when they changes the data base. With that they can adjust the difficulty of the game to their liking
 
 
 
